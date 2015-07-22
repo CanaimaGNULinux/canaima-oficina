@@ -1,4 +1,16 @@
-commit 8c8c980c9192f9cbe5227f696061db47db423691 (HEAD, origin/master, origin/HEAD, master)
+commit 0aa31ded5bc4bdf474479b9595dc9bf570da2cda (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 13:11:14 2015 -0430
+
+    * se agrega un tipo de fuente
+
+commit b7e25ea6fb7865eaf9d9756bca9dee1c7e0ec4e6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 22 12:47:33 2015 -0430
+
+    * changelog
+
+commit 8c8c980c9192f9cbe5227f696061db47db423691
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 22 12:47:17 2015 -0430
 
