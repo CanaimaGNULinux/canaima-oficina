@@ -1,0 +1,12 @@
+Source: canaima-oficina
+Section: metapackages
+Priority: standard
+Maintainer: Jesus Palencia <sinfallas@gmail.com>
+Build-Depends: debhelper, cdbs
+Standards-Version: 3.9.5
+
+Package: canaima-oficina
+Architecture: all
+Depends: evince, fonts-droid, fonts-freefont-ttf, fonts-lyx, fonts-opensymbol, fonts-sil-gentium, fonts-sil-gentium-basic, libreoffice, libreoffice-gtk, gucharmap, fonts-liberation, leafpad, rhinote, unoconv
+Description: Canaima oficina
+ Paquetes ofimaticos para Canaima
