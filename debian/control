@@ -7,6 +7,6 @@ Standards-Version: 3.9.5
 
 Package: canaima-oficina
 Architecture: all
-Depends: evince, fonts-droid, fonts-freefont-ttf, fonts-lyx, fonts-opensymbol, fonts-sil-gentium, fonts-sil-gentium-basic, libreoffice, libreoffice-gtk, gucharmap, fonts-liberation, leafpad, rhinote, unoconv, fonts-linex
+Depends: evince (>= 3.14), fonts-droid (>= 1:4.4), fonts-freefont-ttf (>= 20120503), fonts-lyx (>= 2.1), fonts-opensymbol (>= 2.1.2), fonts-sil-gentium (>= 20081126:1.02-13), fonts-sil-gentium-basic (>= 1.1-7), libreoffice (>= 1:4.3), libreoffice-gtk (>= 1:4.3.3), gucharmap (>= 1:3.14.1), fonts-liberation (>= 1.07.4), leafpad (>= 0.8.18.1), rhinote (>= 0.7.4), unoconv (>= 0.6), fonts-linex (>= 2.2)
 Description: Canaima oficina
  Paquetes ofimaticos para Canaima
